@@ -1,0 +1,6 @@
+.venv
+__pycache__
+blockchain
+ganache-blockchain
+other
+proof-of-work
